@@ -1,0 +1,8 @@
+{
+ "updated_at": "2026-08-23T20:11:52.494081",
+ "detector_running": true,
+ "running_total": 1246041,
+ "fps": 0.0,
+ "camera_online": false,
+ "camera_status_error": "waiting for camera (attempt 1)"
+}
